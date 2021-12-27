@@ -1,0 +1,83 @@
+##COMPANY-LOGO-IMAGE-TITLE
+会社のロゴ
+
+##COMPANY-LOGO-IMAGE-DESCRIPTION
+会社のロゴ;言葉の間にハートのあるLILACSNACCという言葉。心臓は小さなかみ傷を取りました。
+
+##GAME-LOGO-IMAGE-TITLE
+ゲームのロゴ
+
+##GAME-LOGO-IMAGE-DESCRIPTION
+ゲームのロゴ;ゴールドの輝きで飾られた、青緑色のグラデーションでの世界の簡略化されたレンダリング。デコラスワールドという言葉も書かれています。
+
+##THE-DECORUS-GALA
+デコラスガラ
+
+##PATCH-NOTES-PRESS-KIT
+パッチノートとプレスキット
+
+##JOIN-THE-FUN
+遊ぼう！
+
+##ENABLE-SUBTITLES-IMAGE-TITLE
+字幕
+
+##ENABLE-SUBTITLES-IMAGE-DESCRIPTION
+字幕を有効にする
+
+##ENABLE-FULLSCREEN-IMAGE-TITLE
+全画面表示
+
+##ENABLE-FULLSCREEN-IMAGE-DESCRIPTION
+フルスクリーンを有効にする
+
+##HOW-WILL-YOU-SIGN-IN
+どのようにログインしますか？
+
+##FRONT-PAGE-BACKGROUND-IMAGE-DESCRIPTION
+Decorus.Worldのアクション、興奮、環境を示す背景画像
+
+##PLAY-NOW
+今すぐプレイ！
+
+##ABOUT-GAME-1
+デコラスガラの時間です！<br>
+つまり、ダンジョン、チャレンジ、そして競争がいたるところにあるということです！ <br>
+見栄えがすべてです！ 😉それで、あなたのスタイルは何ですか？
+
+##ABOUT-GAME-2
+Clear dungeons solo or adventure with friends, just bring a weapon and a will!<br>
+Just want to chill? You can also fish 🎣, cook 🍲, forge ⚒️, or even sew 🧵
+
+##PATCH-NOTES
+Patch Notes
+
+##SEE-MORE
+See More 🡕
+
+##PRESS-KIT
+Press Kit
+
+##WORKING-ON-IT
+Working on it as of Dec '21
+
+##ABOUT-THE-DEV-1
+Hello! My name is Nazaire Shabazz, aka Lilac Snacc 😘 (emoji optional). I'm an RIT grad who's been coding for almost a decade. Professionally for nearly 5 years now. Some of my favorite games are the .hack series, S4 League, Kingdom Hearts, and Forza Horizon 5.
+
+##ABOUT-THE-DEV-2
+Hmm... my favorite color varies every day, but right now it's #C5ABFF. My favorite food is sushi burrito 😋, and I'm really in the mood for cookies rn but my fav desert is chocolate lava cake with vanilla ice cream.
+
+##ABOUT-THE-DEV-3
+Oh btw, my favorite flower is not actually the Lilac! It is the Lotus. Lilac is my favorite color though. But my favorite scent is Lavender. lol
+
+##PRIVACY-POLICY
+Privacy Policy
+
+##TERMS-OF-SERVICE
+Terms of Service
+
+##ABOUT-THE-DEV
+About the Dev
+
+##ALL-RIGHTS-RESERVED
+All Rights Reserved

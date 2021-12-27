@@ -1,0 +1,83 @@
+##COMPANY-LOGO-IMAGE-TITLE
+logo de la compañía
+
+##COMPANY-LOGO-IMAGE-DESCRIPTION
+Logo de la compañía; Las palabras LILSNACC con un corazón entre las palabras. el corazón dio un pequeño bocado.
+
+##GAME-LOGO-IMAGE-TITLE
+logo del juego
+
+##GAME-LOGO-IMAGE-DESCRIPTION
+logo del juego; una representación simplificada del mundo en un degradado azul verdoso, decorado con destellos dorados. También se escriben las palabras mundo decorus.
+
+##THE-DECORUS-GALA
+El Decorus Gala
+
+##PATCH-NOTES-PRESS-KIT
+Notas de parche y dossieres de prensa
+
+##JOIN-THE-FUN
+¡Únete a la diversión!
+
+##ENABLE-SUBTITLES-IMAGE-TITLE
+subtitular
+
+##ENABLE-SUBTITLES-IMAGE-DESCRIPTION
+habilitar subtítulos
+
+##ENABLE-FULLSCREEN-IMAGE-TITLE
+pantalla completa
+
+##ENABLE-FULLSCREEN-IMAGE-DESCRIPTION
+habilitar pantalla completa
+
+##HOW-WILL-YOU-SIGN-IN
+¿Cómo vas a iniciar sesión?
+
+##FRONT-PAGE-BACKGROUND-IMAGE-DESCRIPTION
+imagen de fondo que muestra la acción, la emoción y el escenario de Decorus.World
+
+##PLAY-NOW
+¡JUEGA AHORA!
+
+##ABOUT-GAME-1
+¡Es hora de la gala de Decorus!<br>
+¡Esto significa que hay mazmorras, desafíos y competiciones en todas partes!<br>
+Realmente se trata de matar y verse bien mientras lo haces 😉 Entonces, ¿cuál es tu estilo?
+
+##ABOUT-GAME-2
+Clear dungeons solo or adventure with friends, just bring a weapon and a will!<br>
+Just want to chill? You can also fish 🎣, cook 🍲, forge ⚒️, or even sew 🧵
+
+##PATCH-NOTES
+Patch Notes
+
+##SEE-MORE
+See More 🡕
+
+##PRESS-KIT
+Press Kit
+
+##WORKING-ON-IT
+Working on it as of Dec '21
+
+##ABOUT-THE-DEV-1
+Hello! My name is Nazaire Shabazz, aka Lilac Snacc 😘 (emoji optional). I'm an RIT grad who's been coding for almost a decade. Professionally for nearly 5 years now. Some of my favorite games are the .hack series, S4 League, Kingdom Hearts, and Forza Horizon 5.
+
+##ABOUT-THE-DEV-2
+Hmm... my favorite color varies every day, but right now it's #C5ABFF. My favorite food is sushi burrito 😋, and I'm really in the mood for cookies rn but my fav desert is chocolate lava cake with vanilla ice cream.
+
+##ABOUT-THE-DEV-3
+Oh btw, my favorite flower is not actually the Lilac! It is the Lotus. Lilac is my favorite color though. But my favorite scent is Lavender. lol
+
+##PRIVACY-POLICY
+Privacy Policy
+
+##TERMS-OF-SERVICE
+Terms of Service
+
+##ABOUT-THE-DEV
+About the Dev
+
+##ALL-RIGHTS-RESERVED
+All Rights Reserved

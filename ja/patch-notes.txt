@@ -1,0 +1,32 @@
+#Decorus World Patchnotes
+
+##TODO
+- add json support to pull language-specific content during build
+- look into having dev / live environments
+- make 'translations' a git submodule, to make a smooth process for when we hire translators (translators can focus and 'pin' the translations repository to see changes)
+
+##December 25th, 2021 v0.0.1
+- have patch-notes compiler emit 'patch-notes.txt' to each language folder 'dist/{lang}', from 'translations/{lang}/patch-notes.txt'
+
+##December 23rd, 2021 v0.0.1
+- patch-notes compiler auto copies readme.md to 'translations/en/patch-notes.txt'
+
+##December 22nd, 2021 v0.0.1
+- correct some html elements with unecessary ids
+- fixed bug with initial language settings
+- changed selection color to something cuter :P
+- created and linked privacy-policy pdf
+- created and linked placeholder terms-of-service pdf
+
+##December 21st, 2021 v0.0.0
+- fill out the about the dev section and make a popup to display it
+
+##December 20th, 2021 v0.0.0
+- the latest patchnotes are now directly pulled from the m#ain repository readme during buildtime
+- background video is #now auto-compressed in the server, so the serve size is minimal
+- get the decorus.world domain working on new host.
+
+##Notice to anyone with hopes
+- (Dec 23rd, 2021) I've been working on this since Nov 2020, I just haven't formally written progress till now
+- (Dec 23rd, 2021) DO NOT let the timestamps fool you or discourage you. I've made tons of iterations before this
+- (Dec 23rd, 2021) If you're working on a game you believe in, please keep going! If you make a mistake, instead of beating yourself up, make up for the mistake!
