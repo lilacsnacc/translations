@@ -1,9 +1,21 @@
 #Decorus World Patchnotes
 
+##Note to Any Devs That Join
+- Remember to run [npm init] when you clone this repo
+- When you clone this repo, run [git submodule update --init --recursive] to get the translations folder contents
+- Finally, run [git submodule update --remote --merge] once in a while to get the latest translations
+
 ##TODO
 - add json support to pull language-specific content during build
 - look into having dev / live environments
-- make 'translations' a git submodule, to make a smooth process for when we hire translators (difficult, saving for laterrrrr)
+
+##December 27th, 2021 v0.0.1
+- finished html translations for all languages (English, Deustch, Espanol, Francais, Nihon, and Hangug-in)
+
+##December 26th, 2021 v0.0.1
+- made 'translations' a git submodule, to make a smooth process for when we hire translators
+- added a few translations to the front page html (I plan to finish up the rest later today) IT REALLY WORKS! :D
+- (languages: English, Deustch, Espanol, Francais, Nihon, and Hangug-in)
 
 ##December 25th, 2021 v0.0.1
 - have patch-notes compiler emit 'patch-notes.txt' to each language folder 'dist/{lang}', from 'translations/{lang}/patch-notes.txt'

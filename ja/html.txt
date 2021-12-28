@@ -46,38 +46,38 @@ Decorus.Worldのアクション、興奮、環境を示す背景画像
 見栄えがすべてです！ 😉それで、あなたのスタイルは何ですか？
 
 ##ABOUT-GAME-2
-Clear dungeons solo or adventure with friends, just bring a weapon and a will!<br>
-Just want to chill? You can also fish 🎣, cook 🍲, forge ⚒️, or even sew 🧵
+ダンジョンのソロを完成させ、友達と一緒に冒険し、武器と意志を持ってきてください！ <br>
+ただ冷やしたいですか？釣り、料理、鍛造、縫製もできます (🎣, 🍲, ⚒️, 🧵)
 
 ##PATCH-NOTES
-Patch Notes
+変更ログ
 
 ##SEE-MORE
-See More 🡕
+続きを見る 🡕
 
 ##PRESS-KIT
-Press Kit
+プレスキット
 
 ##WORKING-ON-IT
-Working on it as of Dec '21
+それに取り組んでいます Dec '21
 
 ##ABOUT-THE-DEV-1
-Hello! My name is Nazaire Shabazz, aka Lilac Snacc 😘 (emoji optional). I'm an RIT grad who's been coding for almost a decade. Professionally for nearly 5 years now. Some of my favorite games are the .hack series, S4 League, Kingdom Hearts, and Forza Horizon 5.
+こんにちは！私の名前はNazaireShabazz、別名LilacSnacc😘（絵文字はオプション）です。私はRITの卒業生で、10年近くコーディングを続けています。ほぼ5年間専門的に。私のお気に入りのゲームには、.hackシリーズ、S4 League、Kingdom Hearts、Forza Horizon 5があります。
 
 ##ABOUT-THE-DEV-2
-Hmm... my favorite color varies every day, but right now it's #C5ABFF. My favorite food is sushi burrito 😋, and I'm really in the mood for cookies rn but my fav desert is chocolate lava cake with vanilla ice cream.
+うーん...私の好きな色は毎日変わりますが、今は＃C5ABFFです。私の好きな食べ物は寿司ブリトーです😋そして私は本当にクッキーが欲しいです、しかし私の好きなデザートはバニラアイスクリームとチョコレート溶岩ケーキです。
 
 ##ABOUT-THE-DEV-3
-Oh btw, my favorite flower is not actually the Lilac! It is the Lotus. Lilac is my favorite color though. But my favorite scent is Lavender. lol
+ちなみに、私の好きな花はライラックではありません！蓮です。しかし、ライラックは私のお気に入りの色です。でも私の好きな香りはラベンダーです。笑
 
 ##PRIVACY-POLICY
-Privacy Policy
+プライバシーポリシー
 
 ##TERMS-OF-SERVICE
-Terms of Service
+利用規約
 
 ##ABOUT-THE-DEV
-About the Dev
+開発者について
 
 ##ALL-RIGHTS-RESERVED
-All Rights Reserved
+全著作権所有

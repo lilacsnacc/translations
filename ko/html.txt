@@ -46,38 +46,38 @@ Decorus.World의 액션, 설렘, 환경을 보여주는 배경 이미지
 멋지게 보이기만 하면 됩니다 😉 당신의 스타일은 무엇인가요?
 
 ##ABOUT-GAME-2
-Clear dungeons solo or adventure with friends, just bring a weapon and a will!<br>
-Just want to chill? You can also fish 🎣, cook 🍲, forge ⚒️, or even sew 🧵
+혼자 던전을 클리어하거나 친구와 함께 모험을 하고 무기와 의지만 있으면 됩니다!<br>
+그냥 쉬고 싶습니까? 낚시 🎣, 요리 🍲, 단조 ⚒️, 옷 바느질 🧵 도 할 수 있습니다.
 
 ##PATCH-NOTES
-Patch Notes
+변경 로그
 
 ##SEE-MORE
-See More 🡕
+더보기 🡕
 
 ##PRESS-KIT
-Press Kit
+보도 자료
 
 ##WORKING-ON-IT
-Working on it as of Dec '21
+여전히 일하고 Dec '21
 
 ##ABOUT-THE-DEV-1
-Hello! My name is Nazaire Shabazz, aka Lilac Snacc 😘 (emoji optional). I'm an RIT grad who's been coding for almost a decade. Professionally for nearly 5 years now. Some of my favorite games are the .hack series, S4 League, Kingdom Hearts, and Forza Horizon 5.
+여보세요! 제 이름은 Nazaire Shabazz, 일명 라일락 스낵 😘(이모티콘 선택 사항)입니다. 저는 거의 10년 동안 코딩을 해온 RIT 졸업생입니다. 거의 5년 동안 전문적으로. 내가 가장 좋아하는 게임 중 일부는 .hack 시리즈, S4 League, Kingdom Hearts 및 Forza Horizon 5입니다.
 
 ##ABOUT-THE-DEV-2
-Hmm... my favorite color varies every day, but right now it's #C5ABFF. My favorite food is sushi burrito 😋, and I'm really in the mood for cookies rn but my fav desert is chocolate lava cake with vanilla ice cream.
+흠... 내가 좋아하는 색은 매일 바뀌는데 지금은 #C5ABFF. 내가 제일 좋아하는 음식은 스시 부리또 😋, 그리고 쿠키 rn이 정말 갈망하지만 내가 가장 좋아하는 디저트는 바닐라 아이스크림을 곁들인 초콜릿 용암 케이크입니다.
 
 ##ABOUT-THE-DEV-3
-Oh btw, my favorite flower is not actually the Lilac! It is the Lotus. Lilac is my favorite color though. But my favorite scent is Lavender. lol
+그건 그렇고, 내가 가장 좋아하는 꽃은 라일락이 아닙니다! 로터스. 그러나 라일락은 내가 가장 좋아하는 색입니다. 하지만 내가 가장 좋아하는 향은 라벤더. ㅋ ㅋ ㅋ
 
 ##PRIVACY-POLICY
-Privacy Policy
+개인 정보 정책
 
 ##TERMS-OF-SERVICE
-Terms of Service
+서비스 약관
 
 ##ABOUT-THE-DEV
-About the Dev
+개발자 정보
 
 ##ALL-RIGHTS-RESERVED
-All Rights Reserved
+판권 소유
