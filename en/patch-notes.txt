@@ -6,9 +6,6 @@
 - Finally, run [git submodule update --remote --merge] once in a while to get the latest translations
 
 ## TODO
-- add ground plane to serve as first iteration of the world
-- add rect prism model for base player
-- add walking functionality
 - create multiplayer server
 - add ability for multiple people to be on the server, see each other, and walk around
 - create three player models to be used randomly (human, robot, beast)
@@ -17,7 +14,19 @@
 - add json support to pull language-specific content during game
 - look into having dev / live environments
 
+## January 1st, 2022 v0.1.1
+- added like.. a lot
+- the ground is now infinite
+- added grass model and character model
+- grass is performantly instanced over the plane
+- you have a character now! it doesn't animate tho
+- movement enabled. you can move around the world!
+- added skysphere and sun
+- added performant way to asynchronously load meshes
+- sheesh... there's a lot to do and it's a little scrambled
+
 ## December 30th, 2021 v0.0.1
+- add ground plane to serve as first iteration of the world
 
 ## December 28th, 2021 v0.0.1
 - Added 3D graphics functionality and control
