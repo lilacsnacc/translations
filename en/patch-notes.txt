@@ -7,12 +7,31 @@
 
 ## TODO
 - create multiplayer server
+- randomize the hue of the player model when it is loaded (should be easy)
+- organize animations instead of using anim[0] / anim[1] format
+- move all model loading code into the Level class file
 - add ability for multiple people to be on the server, see each other, and walk around
 - create three player models to be used randomly (human, robot, beast)
 - create "reflective egg" model (just a black egg with metallic / reflective texture)
 - have player randomly become any of the three player models when they "interact" with Reflective Egg
 - add json support to pull language-specific content during game
 - look into having dev / live environments
+
+## January 12th, 2022 v0.1.1
+- added basic player model with soft texturing
+- added basic stand and jog animations to the model
+- organized the update code into Update and LateUpdate
+- objects with Update methods can now tie themselves to the level's update listener
+- standardized instancing / duplication for wrapped levels, and moved the code into the Level class file
+- reorganized how move inputs are accepted and broadcast. Not quite happy with it but it works
+- renamed overworld to infinite-plains. This is our first level! We'll revisit from time to time and decorate! ^_^
+- added seedable randomness! This is the first step to repeatable / shareable / competitive dungeons! :D
+- changed a few numbers around for the Entity class
+- completed the infinite looping level setup (but boy is it graphically expensive T_T)
+- fiddled with a few numbers for the camera system (lerp time, targetOffset, max render depth)
+- waged a quick war on semicolons :P
+- I wrote this from top to bottom in one day, but this is the result of about two weeks of work!
+- Working on making this a daily habit
 
 ## January 1st, 2022 v0.1.1
 - added like.. a lot
